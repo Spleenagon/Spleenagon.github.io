@@ -4,7 +4,7 @@
 
 * {
     text-rendering: optimizeLegibility;
-    --accent-color: 65, 76, 253;
+    --accent-color: #F48CBA;
     --loading-bg-color: 255, 255, 255;
     --left-pane-active-width: 16rem;
     --right-pane-active-width: 16rem;
